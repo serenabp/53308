@@ -15,7 +15,7 @@ git clone https://github.com/serenabp/53308
 Accede a la carpeta raiz donde se encuentran los archivos fuente del proyecto:
 
 ```
-cd 53308/antlr-vuelos
+cd 53308/
 ```
 
 ### 3. Instalar las dependencias
